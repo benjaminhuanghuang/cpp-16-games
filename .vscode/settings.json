@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "string": "cpp"
+  },
+  "python.pythonPath": "/Users/bhuang/ben-github/ben-leetcode/venv3/bin/python3",
+  "python.formatting.provider": "yapf"
+}
